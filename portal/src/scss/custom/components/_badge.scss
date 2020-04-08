@@ -1,0 +1,13 @@
+// 
+// Lighten badge (soft)
+//
+
+.badge {
+  padding-bottom: $badge-padding-bottom;
+}
+
+@each $color, $value in $theme-colors {
+  .badge-#{$color}-lighten {
+      @include badge-variant-light($value);
+  }
+}

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ad802ee0-26e5-49e9-96bb-670249d252ba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/Controllers/HospitalController.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/Controllers/HospitalController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/Routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/Routes/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portal/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/portal/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portal/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portal/src/Components/Listing/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/portal/src/Components/Listing/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portal/src/Components/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/portal/src/Components/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portal/src/Helper/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/portal/src/Helper/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portal/src/Pages/ForgotPassword/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/portal/src/Pages/ForgotPassword/layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portal/src/Pages/HospitalAdd/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/portal/src/Pages/HospitalAdd/layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portal/src/Pages/HospitalListing/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/portal/src/Pages/HospitalListing/layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portal/src/Pages/HospitalsDetail/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/portal/src/Pages/HospitalsDetail/layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portal/src/Pages/Login/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/portal/src/Pages/Login/layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portal/src/Pages/Register/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/portal/src/Pages/Register/layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portal/src/Pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/portal/src/Pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portal/src/Store/action.js" beforeDir="false" afterPath="$PROJECT_DIR$/portal/src/Store/action.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1XvvndjfopJMhJERM4zHkH3NbHn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="G:/my-app" />
+    <property name="settings.editor.selected.configurable" value="language.cpp" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad802ee0-26e5-49e9-96bb-670249d252ba" name="Default Changelist" comment="" />
+      <created>1581939551107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581939551107</updated>
+      <workItem from="1581939566067" duration="495000" />
+      <workItem from="1581940112910" duration="162000" />
+      <workItem from="1581940285739" duration="208000" />
+      <workItem from="1581946878445" duration="33000" />
+      <workItem from="1584295362184" duration="510000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581940447812">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1581940447812" />
+    <state x="520" y="246" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper" timestamp="1584295459140">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="520" y="246" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper/0.0.1536.824@0.0.1536.824" timestamp="1584295459140" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1584295888277">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584295888277" />
+    <state x="244" y="109" width="1090" height="715" key="SettingsEditor" timestamp="1584295772576">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="244" y="109" width="1090" height="715" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584295772576" />
+    <state x="431" y="145" key="search.everywhere.popup" timestamp="1584295557710">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1584295557710" />
+  </component>
+</project>

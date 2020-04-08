@@ -1,0 +1,11 @@
+//
+// flex.scss
+//
+
+@each $breakpoint in map-keys($grid-breakpoints) {
+  @include media-breakpoint-up($breakpoint) {
+    $infix: breakpoint-infix($breakpoint, $grid-breakpoints);
+
+    .flex#{$infix}-basis-0            { flex-basis: 0% !important; }
+  }
+}
