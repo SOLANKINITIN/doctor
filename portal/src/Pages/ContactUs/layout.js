@@ -21,11 +21,11 @@ const Layout = () => {
         <div className={classes.map}>
           <Map />
         </div>
+        <Typography variant='h3' className={classes.contactTitle}>
+          Get in Touch
+        </Typography>
         <Grid container spacing={2}>
           <Grid item xs={12} sm={12} xl={6} lg={6}>
-            <Typography variant='h3' className={classes.contactTitle}>
-              Get in Touch
-            </Typography>
             <InputComponent
               placeholder='Enter Message'
               id='outlined-multiline-static'
@@ -39,7 +39,11 @@ const Layout = () => {
                   <InputComponent placeholder='Enter Your Name' type='text' />
                 </Grid>
                 <Grid item xs={12} sm={12} xl={6} lg={6}>
-                  <InputComponent placeholder='Enter Your Email' type='email' />
+                  <InputComponent
+                    placeholder='Enter Your Email'
+                    type='email'
+                    className={classes.dea}
+                  ></InputComponent>
                 </Grid>
               </Grid>
             </div>
@@ -59,7 +63,7 @@ const Layout = () => {
             </div>
           </Grid>
           <Grid item xs={12} sm={6} xl={6} lg={6}>
-            <div className={classes.deatils}>
+            <div className={classes.deatil}>
               <EmailIcon className={classes.icon} />
               <Typography className={classes.typography} variant='span'>
                 docotoai@gmail.com
@@ -71,10 +75,10 @@ const Layout = () => {
             <div className={classes.deatil}>
               <PhoneAndroidIcon className={classes.icon} />
               <Typography className={classes.typography} variant='span'>
-                Buttonwood, California.
+                Docotor AI
               </Typography>
               <Typography className={classes.typography1} variant='h6'>
-                Rosemead, CA 91770
+                00 (440) 9865 562
               </Typography>
             </div>
             <div className={classes.deatil}>
